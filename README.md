@@ -1,4 +1,4 @@
-## Hi, I'm Patrick 
+## Hi, I'm Patrick 👋
 
 🧠 Computer Science Student at Gdańsk University of Technology</br>
 🖥️ Passionate about full-stack development, software design, and building solutions with real-world impact</br>
