@@ -1,8 +1,8 @@
 ## Hi, I'm Patrick 👋
 
 🧠 Computer Science Engineer - Gdańsk University of Technology</br>
-🖥️ Passionate about full-stack development, software design, and building solutions with real-world impact</br>
-📚 I’m always learning and enjoy challenges that allow me to grow as a developer, especially in backend, cloud, and system design areas
+🖥️ Focused on cloud infrastructure, CI/CD automation, IaC, and operating scalable production systems</br>
+📚 Continuously improving in cloud platforms, infrastructure design, and DevOps engineering
 
 # 💻 Tech Stack:
 <!-- Languages -->
