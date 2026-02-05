@@ -1,7 +1,7 @@
 ## Hi, I'm Patrick 👋
 
-🧠 Computer Science Engineer — Gdańsk University of Technology</br>
-🖥️ Cloud DevOps Engineer at Hapag-Lloyd AG — focused on cloud infrastructure, CI/CD automation, IaC, and operating scalable production systems</br>
+🧠 Computer Science Engineer - Gdańsk University of Technology</br>
+🖥️ Cloud DevOps at Hapag-Lloyd AG - focused on cloud infrastructure, CI/CD automation, IaC, and operating scalable systems</br>
 📚 Continuously improving in cloud platforms, infrastructure design, and DevOps engineering
 
 # 💻 Tech Stack:
