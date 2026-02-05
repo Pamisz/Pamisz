@@ -1,6 +1,6 @@
 ## Hi, I'm Patrick 👋
 
-🧠 Computer Science Student at Gdańsk University of Technology</br>
+🧠 Computer Science Engineer - Gdańsk University of Technology</br>
 🖥️ Passionate about full-stack development, software design, and building solutions with real-world impact</br>
 📚 I’m always learning and enjoy challenges that allow me to grow as a developer, especially in backend, cloud, and system design areas
 
