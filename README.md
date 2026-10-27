@@ -2,6 +2,7 @@
 
 🧠 Computer Science Engineer - Gdańsk University of Technology</br>
 🖥️ Software Engineer at Hapag-Lloyd AG – focused on ML, cloud solutions, and automation</br>
+☁️ AWS Certified Solutions Architect</br>
 📚 Continuously improving in cloud platforms, infrastructure design, and DevOps engineering
 
 # 💻 Tech Stack:
